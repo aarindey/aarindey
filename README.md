@@ -1,5 +1,5 @@
-💻 Competitive Programmer | 🤖 Machine Learning | 🌐 Web Development | 💜 Open Source Contributor |
-Hi there! I'm a software developer with a passion for solving complex problems and building great things. My expertise lies in competitive programming, machine learning, and web development, and I'm always looking for new challenges and opportunities to grow my skills.
+💻 Competitive Programmer | 🌐 Web Development | 💜 Open Source Contributor |
+Hi there! I'm a software developer with a passion for solving complex problems and building great things. My expertise lies in competitive programming and web development, and I'm always looking for new challenges and opportunities to grow my skills.
 
 Skills:
 💪 Competitive programming: I have a good background in algorithms and data structures and I like participating regularly in online coding contests.
