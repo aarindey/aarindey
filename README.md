@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning to code **Smart Contracts**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **Web Dev Projects**
 
 - 👨‍💻 All of my projects are available at [https://aarindey.github.io/ArindamCV/](https://aarindey.github.io/ArindamCV/)
 
