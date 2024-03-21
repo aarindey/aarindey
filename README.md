@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarin Dey</h1>
 <h3 align="center">Crafting code with passion, one commit at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarindey&label=Profile%20views&color=0e75b6&style=flat" alt="aarindey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarindey" alt="aarindey" /></a> </p>
-
 - 🔭 I’m currently working on [Live Stream application](https://github.com/aarindey/Live-Stream-App)
 
 - 🌱 I’m currently learning to code **Smart Contracts**
