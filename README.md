@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
-- 👨‍💻 All of my projects are available at [https://aarindey.github.io/ArindamCV/](https://aarindey.github.io/ArindamCV/)
+- 👨‍💻 All of my projects are available at [My Portfolio Site](https://aarindey.netlify.app/)
 
-- 📝 I regularly write articles on [https://blogify-gold.vercel.app/](https://blogify-gold.vercel.app/)
+- 📝 I regularly write articles on [My BlogSite](https://blogify-gold.vercel.app/)
 
 - 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **aarindey@gmail.com**
 
-- 📄 Know about my experiences [https://aarindey.github.io/ArindamCV/](https://aarindey.github.io/ArindamCV/)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/aarindey/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
