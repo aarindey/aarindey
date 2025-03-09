@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Live Stream application](https://github.com/aarindey/Live-Stream-App)
 
-- 🌱 I’m currently learning to code **Smart Contracts**
+- 🌱 I’m currently learning to code **Kubernetes Controllers**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
